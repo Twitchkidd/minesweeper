@@ -4,6 +4,8 @@ import { SuperCenter } from '@/components/Layout';
 import StartScreen from '@/components/StartScreen';
 import Game from '@/components/Game';
 
+// todo name
+
 export default function Home() {
 	const [playing, setPlaying] = useState(false);
 	return (
